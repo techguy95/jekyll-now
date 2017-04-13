@@ -22,10 +22,12 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Useful links to save for later:
 
--
-- ...thing 2
+- https://www.youtube.com/watch?v=5MgBikgcWnY (How to Learn Anything)
+- https://www.youtube.com/watch?v=7TXEZ4tP06c (Why People believe they can't draw)
 
 ## My next goals:
 
 - Catch up with my UnBootcamp meetup
 - Finish the Codecademy tutorial
+- Reduce distraction barriers
+- Learn to self correct with debugger and online resources (Googling)
