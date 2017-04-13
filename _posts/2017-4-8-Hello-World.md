@@ -8,7 +8,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 ## Today I learned (#TIL):
 
 - How to setup GitBash, fork and clone a repo on GitHub
--
+- How to git add, commit and push code to a GitHub repo
 
 ## Questions:
 
@@ -18,7 +18,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 ## Bugs discovered / what I got stuck on:
 
 - using the constructor for objects messes up in Data Structures lesson
-- 
+-
 
 ## Useful links to save for later:
 
