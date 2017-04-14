@@ -18,7 +18,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 ## Bugs discovered / what I got stuck on:
 
 - using the constructor for objects messes up in Data Structures lesson
--
+- might need to use literal object instead to finish lesson properly
 
 ## Useful links to save for later:
 
