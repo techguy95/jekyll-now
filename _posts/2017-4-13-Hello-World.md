@@ -1,23 +1,26 @@
 ---
 layout: post
-title: My first blog post using GitHub and Jekyll!
+title: My second blog post using GitHub and Jekyll!
 ---
 
-This is my second blog post made with Jekyll! Woohoo! In this first post, I'll share some notes on what I learned today at the first class meeting of the very first [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
+This is the second blog post made with Jekyll in this amazing coding journey.
+Time to embrace change!
+Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
 - literal notation for objects
 - using codecademy forums when stuck on a problem
+- how to create another post in Jekyll using md date stamp format
 
 ## Questions:
 
-- figuring out how to post the 2nd post on the blog
+-
 -
 
 ## Bugs discovered / what I got stuck on:
 
-- stuck on 2nd post appearing
+-
 -
 
 ## Useful links to save for later:
