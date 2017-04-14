@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My second blog post using GitHub and Jekyll!
+title: Round TWO another GitHub n Jekyll production, baby!
 ---
 
 This is the second blog post made with Jekyll in this amazing coding journey.
