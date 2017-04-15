@@ -36,7 +36,7 @@ result(students);
 ## Useful links to save for later:
 
 - https://github.com/kamranahmedse/developer-roadmap
--https://dashboard.heroku.com/apps/openipov1/deploy/heroku-git
+- https://dashboard.heroku.com/apps/openipov1/deploy/heroku-git
 
 ## My next goals:
 
