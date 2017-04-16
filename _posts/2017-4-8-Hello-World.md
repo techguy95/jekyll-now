@@ -3,7 +3,8 @@ layout: post
 title: My first blog post using GitHub and Jekyll!
 ---
 
-This is my first blog post made with Jekyll! Woohoo! In this first post, I'll share some notes on what I learned today at the first class meeting of the very first [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
+First blog post made with Jekyll! Woot and such! In this first post,
+I'll share some notes on what I learned today at the first class meeting of the very first [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
@@ -17,8 +18,8 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Bugs discovered / what I got stuck on:
 
-- using the constructor for objects messes up in Data Structures lesson
-- might need to use literal object instead to finish lesson properly
+- using the constructor for objects buggy in Data Structures lesson in Codecademy
+- might need to use literal object notation instead to finish lesson properly
 
 ## Useful links to save for later:
 
