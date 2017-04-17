@@ -10,7 +10,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 
 - reviewed functions and nesting functions
 - went over scope of variables global and local e.g. within functions
-- saw a demo of node.js and a setting up a socket.io to run realtime js code on the backend
+- saw a demo of node.js and setting up socket.io to run realtime js code on the backend
 - how to run a real time app with socket.io and node.js (see example below)
 
 {% highlight javascript %}
