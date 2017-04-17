@@ -65,10 +65,8 @@ Pythag(3,4);
 
 - how do i put buttons in Jekyll like this picture below?
 ![insert witty and cool pic here...](/images/Capture.PNG)
-- do i need socket.io library in the html file to do this on the browser?
-- like this? ==> <script type="text/javascript" src="socket.io.js"></script>
-- obviously need more googling and youtube...
-- i read about the ho
+- do i need socket.io library in the html file to run a socket.io chat site?
+
 
 ## Bugs discovered / what I got stuck on:
 
@@ -134,3 +132,4 @@ search("Bill"); //this is supposed to return Bill's info...need help
 - work on the socket.io chat app with node.js
 - learn how to read and insert to a database using node.js
 - deploy chat app project to GitHub and Heroku
+- more googling and videos
