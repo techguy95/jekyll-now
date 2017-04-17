@@ -64,7 +64,7 @@ Pythag(3,4);
 ## Questions:
 
 - how do i put buttons in Jekyll like this picture below?
-![insert witty and cool pic here...](/images/Capture.PNG)
+![insert witty and cool SEO pic text here...](/images/Capture.PNG)
 - do i need socket.io library in the html file to run a socket.io chat site?
 
 
