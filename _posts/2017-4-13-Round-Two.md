@@ -3,7 +3,7 @@ layout: post
 title: Round TWO another GitHub n Jekyll production, baby!
 ---
 
-This is the second blog post made with Jekyll in this amazing coding journey.
+2nd blog post made with Jekyll in this amazing coding journey.
 Time to embrace change!
 Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
@@ -21,12 +21,12 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 ## Bugs discovered / what I got stuck on:
 
 -
--
+- 
 
 ## Useful links to save for later:
 
 - https://discuss.codecademy.com/c/javascript
--
+
 
 ## My next goals:
 
