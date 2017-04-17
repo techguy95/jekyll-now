@@ -14,8 +14,6 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 - how to include a library like jQuery or socket.io (see example below)
 
 {% highlight javascript %}
-// do i need socket.io library in the html file to do this on the browser?
-// <script type="text/javascript" src="socket.io.js"></script>
 
 var http = require("http");
 var server = http.createServer(function(request, response) {
@@ -39,22 +37,26 @@ var request = http.request({
               response.statusCode);
 });
 request.end();
+
+// is socket.io library in the html file to do this on the browser?
+// <script type="text/javascript" src="socket.io.js"></script>
+
 {% endhighlight %}
 
-- algorithms() {a list of instructions}
+- algorithms are simply ==> {a list of instructions}
 - how to use algorithms, formulas and also "Math" methods e.g. Math.sqrt()
-- pair programmed a function using  Pythagorean's theorem
+- pair programmed a function using  Pythagorean's theorem (see code below)
 - using repl.it to toss code back and forth when pair programming
 
 {% highlight javascript %}
   function Pythag(a, b)
-{
-  console.log("Ok, side A is " + a);
-  console.log("Cool, side B is " + b);
-  var cSquared = (a * a + b * b);
-  var c = Math.sqrt(cSquared);
-  console.log("Side C is = " + c );
-}
+      {
+          console.log("Ok, side A is " + a);
+          console.log("Cool, side B is " + b);
+          var cSquared = (a * a + b * b);
+          var c = Math.sqrt(cSquared);
+          console.log("Side C is = " + c );
+       }
 Pythag(3,4);
 {% endhighlight %}
 
@@ -62,7 +64,7 @@ Pythag(3,4);
 ## Questions:
 
 - how do i put buttons in Jekyll like this picture below?
-![someday this will be fixed...](/images/Capture.PNG)
+![insert witty and cool pic here...](/images/Capture.PNG)
 - do i need socket.io library in the html file to do this on the browser?
 - like this? ==> <script type="text/javascript" src="socket.io.js"></script>
 - obviously need more googling and youtube...
@@ -70,6 +72,10 @@ Pythag(3,4);
 
 ## Bugs discovered / what I got stuck on:
 
+- i was stuck trying to figure out how to insert images into the posts, but this is how i did it...put the image in the images folder and commit push
+{% highlight javascript %}
+![insert witty and cool pic here...](/images/Capture.PNG)
+{% endhighlight %}
 - stuck on this Codecademy javascript lesson on data structures all day but finally figured it out:
 {% highlight javascript %}
 // need help to hack and tweak code below
