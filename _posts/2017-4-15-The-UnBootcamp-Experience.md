@@ -62,7 +62,7 @@ Pythag(3,4);
 ## Questions:
 
 - how do i put buttons in Jekyll like this picture below?
-![Cool and Witty Sharing Buttons](images/Capture.PNG){:class="img-responsive"}
+![Cool and Witty Sharing Buttons](http://tinypic.com/r/300xuly/9)
 - do i need socket.io library in the html file to do this on the browser?
 - like this? ==> <script type="text/javascript" src="socket.io.js"></script>
 - obviously need more googling and youtube...
