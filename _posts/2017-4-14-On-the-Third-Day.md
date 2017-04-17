@@ -10,7 +10,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 
 - cloning a project from heroku to local
 - use the heroku cli and link it to my repo on GitHub
-- use repl.it to run code quickly
+- use https://repl.it to run code quickly
 - how to calculate unique pairs with a js function
 {% highlight javascript %}
 function result(num)

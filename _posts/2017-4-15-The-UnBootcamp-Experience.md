@@ -46,7 +46,7 @@ request.end();
 - algorithms are simply ==> {a list of instructions}
 - how to use algorithms, formulas and also "Math" methods e.g. Math.sqrt()
 - pair programmed a function using  Pythagorean's theorem (see code below)
-- using repl.it to toss code back and forth when pair programming
+- using https://repl.it to toss code back and forth when pair programming
 
 {% highlight javascript %}
   function Pythag(a, b)
