@@ -3,7 +3,7 @@ layout: post
 title: The UnBootcamp Experience!
 ---
 
-Took a trip to Cross Campus to meet the UnBootcamp crew and learn a few things
+Took a trip to Cross Campus DTLA to meet the UnBootcamp crew and learn a few things
 Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
@@ -11,7 +11,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 - reviewed functions and nesting functions
 - went over scope of variables global and local e.g. within functions
 - saw a demo of node.js and a setting up a socket.io to run realtime js code on the backend
-- how to include a library like jQuery or socket.io (see example below)
+- how to run a real time app with socket.io and node.js (see example below)
 
 {% highlight javascript %}
 
