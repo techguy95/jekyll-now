@@ -14,7 +14,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 - how to include a library like jQuery or socket.io (see example below)
 
 {% highlight javascript %}
-// don't to forget to include socket.io library
+// do i need socket.io library in the html file to do this on the browser?
 // <script type="text/javascript" src="socket.io.js"></script>
 
 var http = require("http");
@@ -62,8 +62,11 @@ Pythag(3,4);
 ## Questions:
 
 - how do i put buttons in Jekyll like this picture below?
-![Cool and Witty Sharing Buttons][http://tinypic.com/r/300xuly/9]
--
+![Cool and Witty Sharing Buttons](http://tinypic.com/r/300xuly/)
+- do i need socket.io library in the html file to do this on the browser?
+- like this? ==> <script type="text/javascript" src="socket.io.js"></script>
+- obviously need more googling and youtube...
+- i read about the ho
 
 ## Bugs discovered / what I got stuck on:
 
