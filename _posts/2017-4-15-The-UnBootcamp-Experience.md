@@ -62,7 +62,7 @@ Pythag(3,4);
 ## Questions:
 
 - how do i put buttons in Jekyll like this picture below?
-![someday this will be fixed...](http://tinypic.com/r/300xuly/9)
+![someday this will be fixed...](/images/Capture.PNG)
 - do i need socket.io library in the html file to do this on the browser?
 - like this? ==> <script type="text/javascript" src="socket.io.js"></script>
 - obviously need more googling and youtube...
@@ -118,7 +118,7 @@ search("Bill"); //this is supposed to return Bill's info...need help
 - debug.time = search(needle, hayStack); //losin my mind here!
 
 ## Useful links to save for later:
-
+- http://stackoverflow.com/questions/28820917/jekyll-on-github-pages-not-displaying-images-and-has-broken-links
 - http://chariotsolutions.com/blog/post/getting-chatty-angular-socket-io-nodeexpress-bootstrap/
 - https://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/
 
