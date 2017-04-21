@@ -115,7 +115,7 @@ var search = function(name)
     };
 
 //list(friends); //used this to see whats going on
-search("Bill"); //this is supposed to return Bill's info...need help
+search("Steve"); //this is supposed to return Steve's info...
 {% endhighlight %}
 - I needed to understand how the key thing worked with the list function
 - typos, case sensitive, semicolons oh my...
