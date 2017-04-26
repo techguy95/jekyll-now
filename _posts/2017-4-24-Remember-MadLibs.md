@@ -48,5 +48,5 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 - Take advantage of opportunities for meditation and brainstorming
 
 ## Thoughts to share
-- Regarding coding...consistency is the key as with any martial, there must be a regimen of meditation, stretching, katas and sparring.
+- Regarding coding...consistency is the key as with any martial art, there must be a regimen of meditation, stretching, katas and sparring.
 - Coding projects require planning, collaboration and planning - I love the approach of our coding group!  We can transform into an Agile team if we consistently mob program and teach one another. #BootStrapping
