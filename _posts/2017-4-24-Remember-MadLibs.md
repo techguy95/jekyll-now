@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's been a long time since I blogged and rolled!
+title: They want EFX!
 ---
 
 Check out how we learned how to throw up a simple website using javascript to run a MadLibs game!
@@ -9,17 +9,18 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 ## Today I learned (#TIL):
 
 - How to call javascript files and libraries in the HTML document
-  Point to an external javascript file:
+-  Point to an external javascript file:
 {% highlight javascript %}
 <script src="myscripts.js"></script>
-<!-- bring in the socket.io library in the next line -->
+<!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
 <script type="text/javascript" src="socket.io.js"></script>
 {% endhighlight %}
 
 - I uploaded the MadLibs site to my GitHub account here: https://techguy95.github.io/madlibs
-- The code was on my laptop so I made a new GitHub repo for this lesson using this guide https://help.github.com/articles/create-a-repo/
-- When I started working on the desktop "rig" I pulled the code down that I uploaded to the GitHub repo from my laptop using this guide https://help.github.com/articles/fetching-a-remote/#pull
-- I almost forgot to mention something wonderful I learned in the class was about event based loop
+- The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide https://help.github.com/articles/create-a-repo/
+- Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide https://help.github.com/articles/fetching-a-remote/#pull
+- I almost forgot to mention something wonderful I learned in the class was about event based programming, aka the event loop.
+- So basically you can kick off scripts based on certain interactive triggers based on user input with and endless array of libraries and custom javascript modules
 
 ## Questions:
 
