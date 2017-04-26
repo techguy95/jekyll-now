@@ -79,7 +79,7 @@ submit.addEventListener('click', showMadLib);
 - 15 minutes of blogging and coding per day...
 - Finish the Codecademy tutorial
 - Tactfully manage distraction barriers
-- Take advantage of opportunities for meditation and brainstorming
+- Take advantage of opportunities for networking, meditation and brainstorming
 
 ## Thoughts to share
 - Regarding coding...consistency is the key.
