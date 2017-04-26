@@ -18,7 +18,7 @@ heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 - Point to an external javascript file (just insert script includes at the bottom of the DOM examples below - https://www.w3schools.com/js/js_htmldom.asp):
 {% highlight javascript %}
 <!-- bring in local javascript file below -->
-<script src="myscripts.js"></script>
+<script src="madlibs.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
 <script type="text/javascript" src="socket.io.js"></script>
 <!-- bring in jQuery library below...props to the LearnTeachCode crew for all the help! -->
