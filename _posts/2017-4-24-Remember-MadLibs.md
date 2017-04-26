@@ -23,6 +23,38 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 - Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide https://help.github.com/articles/cloning-a-repository/
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
 - So basically you can kick off scripts based on certain interactive triggers based on user input(s) {think nested and chained loops using objects/arrays/variables whoa...} with and endless array of libraries and custom javascript modules #mindsplode
+- OK! Let's take a look at our javascript running an event-based program!
+{% highlight javascript %}
+function showMadLib()
+  {
+      // Get the values of HTML input boxes
+      // with the IDs "noun", "verb", and "adjective"
+      var noun = document.getElementById('noun').value;
+      var verb = document.getElementById('verb').value;
+      var adjective = document.getElementById('adjective').value;
+      // For testing purposes, display the values in the console
+      console.log(noun, verb, adjective);
+
+      // Make the madlib and save it to a variable
+      var madLib = createMadLib(noun, verb, adjective);
+      console.log(madLib);
+
+      // Make a JavaScript object for the HTML element with id "madlib"
+      document.getElementById("madlib").textContent = madLib
+
+  }
+
+function createMadLib(noun, verb, adjective)
+  {
+      return ("Vincent " + verb + " the " + noun + " while running away from the " + adjective + " person!");
+  }
+
+var submit = document.getElementById("submit");
+submit.addEventListener('click', showMadLib);
+
+  //test createMadLib function
+  //createMadLib("dog", "spanked", "weird");
+{% endhighlight %}
 
 ## Questions:
 
