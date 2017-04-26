@@ -80,6 +80,7 @@ submit.addEventListener('click', showMadLib);
 - Finish the Codecademy tutorial
 - Tactfully manage distraction barriers
 - Take advantage of opportunities for networking, meditation and brainstorming
+- Start reading the free book Eloquent JavaScript. Chapter 1: http://eloquentjavascript.net/01_values.html and if you like it, go on to Chapter 2: http://eloquentjavascript.net/02_program_structure.html and do the practice problems at the end of that chapter!
 
 ## Thoughts to share
 - Regarding coding...consistency is the key.
