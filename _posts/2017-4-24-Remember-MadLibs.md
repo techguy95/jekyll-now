@@ -28,6 +28,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 
 - How can I permanently store user or session data from a signup form on a website using javascript (node.js? hmm)?
 - Curious about FireBase...  I keep hearing about FireBase and i'm fired up!  Let me read up more about it here https://firebase.google.com
+- need to hyperlink stuff in Jekyll
 
 ## Bugs discovered / what I got stuck on:
 
@@ -49,4 +50,4 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 
 ## Thoughts to share
 - Regarding coding...consistency is the key as with any martial art, there must be a regimen of meditation, stretching, katas and sparring.
-- Coding projects require planning, collaboration and planning - I love the approach of our coding group!  We can transform into an Agile team if we consistently mob program and teach one another. #BootStrapping
+- Coding projects require planning, collaboration and planning - I love the approach of our coding group!  Learn Teach Code...
