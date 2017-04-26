@@ -11,6 +11,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 - How to call javascript files and libraries in the HTML document
 - Point to an external javascript file (just insert script includes at the bottom of the DOM https://www.w3schools.com/js/js_htmldom.asp):
 {% highlight javascript %}
+<!-- bring in local javascript file below -->
 <script src="myscripts.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
 <script type="text/javascript" src="socket.io.js"></script>
