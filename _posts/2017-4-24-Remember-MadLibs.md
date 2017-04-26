@@ -3,8 +3,8 @@ layout: post
 title: They want EFX!
 ---
 
-Check out how we learned how to throw up a simple website using javascript to run a MadLibs game!
-[CLICK HERE TO PLAY NOW!](https://obscure-beach-64084.herokuapp.com/)
+Check out how we learned how to throw up a simple website using javascript to run a MadLibs game.
+[CLICK HERE TO PLAY NOW](https://obscure-beach-64084.herokuapp.com/)
 Another exciting chapter in the blogosphere of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment!
 
 ## Today I learned (#TIL):
