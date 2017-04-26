@@ -62,7 +62,7 @@ submit.addEventListener('click', showMadLib);
   //test createMadLib function
   //createMadLib("dog", "spanked", "weird");
 {% endhighlight %}
-- the key elements here where we grab and render the HTML in our js script:
+- the key elements where we grab and render the HTML in our javascript:
 {% highlight javascript %}
 document.getElementById('object/variable').value;
 //used for inputs e.g. forms - remember value is used for inputs - interesting background story why "value" is used
