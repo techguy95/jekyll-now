@@ -9,7 +9,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 ## Today I learned (#TIL):
 
 - How to call javascript files and libraries in the HTML document - in our MadLibs site, it was index.html
-- Point to an external javascript file (just insert script includes at the bottom of the DOM https://www.w3schools.com/js/js_htmldom.asp):
+- Point to an external javascript file (just insert script includes at the bottom of the DOM examples below - https://www.w3schools.com/js/js_htmldom.asp):
 {% highlight javascript %}
 <!-- bring in local javascript file below -->
 <script src="myscripts.js"></script>
