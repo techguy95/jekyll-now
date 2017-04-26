@@ -13,7 +13,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 - Also don't forget to use the Heroku CLI to create the PHP buildpack with this command:
 {% highlight bash %}
 heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
-{% endhiglight %}
+{% endhighlight %}
 - How to call javascript files and libraries in the HTML document - in our MadLibs site, it was index.html
 - Point to an external javascript file (just insert script includes at the bottom of the DOM examples below - https://www.w3schools.com/js/js_htmldom.asp):
 {% highlight javascript %}
