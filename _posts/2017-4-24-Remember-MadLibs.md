@@ -82,6 +82,6 @@ submit.addEventListener('click', showMadLib);
 - Take advantage of opportunities for networking, meditation and brainstorming
 - Start reading the free book Eloquent JavaScript. Chapter 1: http://eloquentjavascript.net/01_values.html and if you like it, go on to Chapter 2: http://eloquentjavascript.net/02_program_structure.html and do the practice problems at the end of that chapter!
 
-## Thoughts to share
-- Regarding coding...consistency is the key.
+## Thoughts to share:
+- Regarding coding...consistency is the key.  Never surrender!
 - Coding projects require planning, collaboration and ownership of deliverables - The approach of our coding group!  Learn Teach Code...
