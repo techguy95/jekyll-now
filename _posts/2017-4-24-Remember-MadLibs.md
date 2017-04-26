@@ -19,7 +19,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 <script src="jquery-x.x.x.min.js"></script>
 {% endhighlight %}
 
-- I uploaded the MadLibs site to my GitHub account here: https://techguy95.github.io/madlibs
+- I uploaded this MadLibs website to my GitHub account here: https://techguy95.github.io/madlibs
 - The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide https://help.github.com/articles/create-a-repo/
 - Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide https://help.github.com/articles/cloning-a-repository/
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
