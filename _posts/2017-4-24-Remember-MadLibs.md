@@ -9,7 +9,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 ## Today I learned (#TIL):
 
 - How to call javascript files and libraries in the HTML document
--  Point to an external javascript file:
+- Point to an external javascript file:
 {% highlight javascript %}
 <script src="myscripts.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
