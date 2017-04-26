@@ -14,7 +14,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 <script src="myscripts.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
 <script type="text/javascript" src="socket.io.js"></script>
-<!-- bring in jQuery library below...props to Liz, Rick, Allen, Vincent and the LearnTeachCode crew for this one! -->
+<!-- bring in jQuery library below...props to Liz, Rick, Vincent, Allen, Krystal and the LearnTeachCode crew for all the help! -->
 <script src="jquery-x.x.x.min.js"></script>
 {% endhighlight %}
 
