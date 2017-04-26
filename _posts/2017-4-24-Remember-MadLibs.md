@@ -43,7 +43,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 
 ## My next goals:
 
-- Developing the habit of consistently coding and blogging daily
+- 15 minutes of blogging and coding per day...
 - Finish the Codecademy tutorial
 - Tactfully manage distraction barriers
 - Take advantage of opportunities for meditation and brainstorming
