@@ -23,7 +23,7 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 - The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide https://help.github.com/articles/create-a-repo/
 - Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide https://help.github.com/articles/cloning-a-repository/
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
-- You can kick off scripts through interactive user input(s) {nested and chained loops using objects/arrays/variables whoa...} also thinking of possibilities of other libraries
+- You can kick off scripts through interactive user input(s) - also thinking of possibilities of other libraries
 - OK! Let's take a look at our javascript running an event-based MadLibs program!
 {% highlight javascript %}
 function showMadLib()
