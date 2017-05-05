@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Round TWO another GitHub n Jekyll production, baby!
+title: Round TWO another GitHub-N-Jekyll production, baby!
 ---
 
 2nd blog post made with Jekyll in this amazing coding journey.
@@ -21,7 +21,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 ## Bugs discovered / what I got stuck on:
 
 -
-- 
+-
 
 ## Useful links to save for later:
 
