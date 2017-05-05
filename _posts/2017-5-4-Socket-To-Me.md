@@ -1,18 +1,21 @@
 ---
 layout: post
-title: May the Fourth be with you
+title: May the Force be with you!
 ---
 
 The Force works in mysterious ways...and so does JavaScript!
-Let's take a look at how to setup a realtime
-using Express and Node.js
+Let's take a look at how we setup a realtime chatroom webapp
+using Express, Node.js WebSocket and Socket.io!
 Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
 - As a warmup, we started to build a very simple calculator app. You can see our code in this CodePen here\: http://codepen.io/LearnTeachCode/pen/xddbxx
-- using codecademy forums when stuck on a problem
-- how to create another post in Jekyll using md date stamp format
+- We learned about SocketIO and WebSocket for real-time communication between server and clients, and we made a basic chatroom app!
+- All the working code for the chatroom app is here: https://github.com/LearnTeachCode/socketio-chat-demo/
+- Also I had my first experience debugging code by sprinkling console.log statements on a piece of code that I forgot how worked
+-
+
 
 ## Questions:
 
@@ -31,7 +34,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 
 ## My next goals:
 
-- Use Heroku to deploy a project
-- Finish the Codecademy tutorial
-- Set aside 20 minutes for scheduling and time management
-- Work faster with codecademy forum and google
+- Daily blog post so that I don't forget small sparks of learning or creative ideas
+-
+-
+-
