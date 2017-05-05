@@ -3,13 +3,13 @@ layout: post
 title: They want EFX!
 ---
 
-Check out how we learned how to throw up a simple yet LIVING website using javascript to run a MadLibs game!
-[CLICK HERE TO PLAY NOW!!!](https://obscure-beach-64084.herokuapp.com/)
+Check out how we learned to deploy a simple website on Heroku using event-based javascript to run a
+[MadLibs game.](https://madlibs-learn-teach-code.herokuapp.com/)
 Another exciting chapter in the blogosphere of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment!
 
 ## Today I learned (#TIL):
 
-- Whaaaaaat I was excited to deploy the site using a little php/json hack found here: [Deploy a static website to Heroku](https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489)
+- Whaaaaaat I was excited to deploy the MadLibs website using a little php/json hack found here: [Deploy a static website to Heroku](https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489)
 - Also don't forget to use the Heroku CLI to create the PHP buildpack with this command:
 {% highlight bash %}
 heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
