@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My first blog post using GitHub and Jekyll!
+title: First blog post using GitHub and Jekyll!
+April 8th, 2017
 ---
 
 First blog post made with Jekyll! Woot and such! In this first post,
