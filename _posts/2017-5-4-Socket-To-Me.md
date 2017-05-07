@@ -5,14 +5,14 @@ title: May the Force be with you!
 
 The Force works in mysterious ways...and so does JavaScript!
 Let's take a look at how we setup a realtime chatroom webapp
-using Express, Node.js WebSocket and Socket.io!
+using Express, Node.js, WebSocket and Socket.io!
 Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
-- As a warmup, we started to build a very simple calculator app. You can see our code in this CodePen here\: http://codepen.io/LearnTeachCode/pen/xddbxx
+  - As a warmup, we started to build a very simple calculator app. You can see our code in this CodePen here\: [http://codepen.io/LearnTeachCode/pen/xddbxx](http://codepen.io/LearnTeachCode/pen/xddbxx)
 - We learned about SocketIO and WebSocket for real-time communication between server and clients, and we made a basic chatroom app!
-- All the working code for the chatroom app is here\: https://github.com/LearnTeachCode/socketio-chat-demo/
+- All the working code for the chatroom app is here\: [https://github.com/LearnTeachCode/socketio-chat-demo/](https://github.com/LearnTeachCode/socketio-chat-demo/)
 - Learned how to integrate the event loop with a callback function and how scope of variables need to follow the trigger and action flow
 
 
