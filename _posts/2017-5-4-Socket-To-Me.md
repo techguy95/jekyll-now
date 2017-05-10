@@ -28,7 +28,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 - The clue was that the user input in a number guessing game was not being passed into an if then else evaluation properly
 - I then realized that the problem was that the scope of the input variable was global and not local to callback function when a button is clicked
 - In this case, the user's input was typing a number into the box, then comparing that number to a random number AFTER clicking "submit"
-- To see what I mean check out this codepen that I worked on with Liz and Allen mentoring me\: https://codepen.io/Argentus/pen/xdrPOj
+- To see what I mean check out this codepen that I worked on with Liz and Allen mentoring me\: [https://codepen.io/Argentus/pen/xdrPOj](https://codepen.io/Argentus/pen/xdrPOj)
 - I modified the game a bit to display what the random number was and the user's input to verify the game was working correctly
 - Black box testing!  Focusing on input, comparing expected/actual output even without understanding the details of how it works
 - In QA terminology, we had run unit and acceptance testing and used the results to deduct what part of the code was not working
@@ -37,7 +37,7 @@ Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experim
 
 ## Useful links to save for later:
 
-- https://discuss.codecademy.com/c/javascript
+- [https://discuss.codecademy.com/c/javascript](https://discuss.codecademy.com/c/javascript)
 
 
 ## My next goals:

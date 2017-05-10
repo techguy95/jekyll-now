@@ -72,7 +72,7 @@ Pythag(3,4);
 
 - i was stuck trying to figure out how to insert images into the posts, but this is how i did it...put the image in the images folder and commit push
 {% highlight javascript %}
-![insert witty and cool pic here...](/images/Capture.PNG)
+![insert witty and cool pic from Gordon Zhu's Watch and Code website here...](/images/Capture.PNG)
 {% endhighlight %}
 - stuck on this Codecademy javascript lesson on data structures all day but finally figured it out:
 {% highlight javascript %}
