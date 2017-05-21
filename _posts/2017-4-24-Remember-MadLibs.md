@@ -5,7 +5,7 @@ title: They want EFX!
 
 Check out how we learned to deploy a simple website on Heroku using event-based javascript to run a
 MadLibs game.  [https://madlibs-learn-teach-code.herokuapp.com/](https://madlibs-learn-teach-code.herokuapp.com/)
-Another exciting chapter in the blogosphere of the Learn Teach Code [http://learnteachcode.org/](http://learnteachcode.org/) UnBootcamp experiment!
+Another exciting chapter in the blogosphere of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment!
 
 ## Today I learned (#TIL):
 
