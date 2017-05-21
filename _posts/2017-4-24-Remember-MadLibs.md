@@ -98,7 +98,7 @@ document.getElementById("object/variable").textContent;
 - [Chapter 2](http://eloquentjavascript.net/02_program_structure.html): and do the practice problems at the end of that chapter!
 - Pick ONE of the following built-in JavaScript string functions look it up online and read about it, and then write one of your blog posts explaining what it does and why it’s useful.
 - Write at least 3 short code examples of your own that show how to use it, and include the same code on your blog.
-- (Bonus: format your code examples with syntax highligting, following GitHub’s Markdown [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
+- (Bonus: format your code examples with syntax highligting, following [GitHub’s Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
 - Built-in JavaScript string functions to choose from (just choose ONE of these): indexOf(), slice(), substring(), charAt(), replace(), toUpperCase(), split()
 - [Extra practice problems](https://www.codewars.com/kata/tricky-doubles) :
 - Watch “The poetry of programming” talk by Linda Liukas: [https://www.youtube.com/watch?v=-jRREn6ifEQ](https://www.youtube.com/watch?v=-jRREn6ifEQ)
