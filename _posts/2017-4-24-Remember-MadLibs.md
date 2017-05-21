@@ -94,16 +94,15 @@ document.getElementById("object/variable").textContent;
 - Tactfully manage distraction barriers
 - Take advantage of opportunities for networking, meditation and brainstorming
 - Start reading the free book Eloquent JavaScript.
-- [Chapter 1:](http://eloquentjavascript.net/01_values.html](http://eloquentjavascript.net/01_values.html) and if you like it, go on to
-- [Chapter 2:](http://eloquentjavascript.net/02_program_structure.html) and do the practice problems at the end of that chapter!
+- [Chapter 1:](http://eloquentjavascript.net/01_values.html](http://eloquentjavascript.net/01_values.html): and if you like it, go on to
+- [Chapter 2](http://eloquentjavascript.net/02_program_structure.html): and do the practice problems at the end of that chapter!
 - Pick ONE of the following built-in JavaScript string functions look it up online and read about it, and then write one of your blog posts explaining what it does and why it’s useful.
 - Write at least 3 short code examples of your own that show how to use it, and include the same code on your blog.
 - (Bonus: format your code examples with syntax highligting, following GitHub’s [Markdown Cheatsheet here:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Built-in JavaScript string functions to choose from (just choose ONE of these): indexOf(), slice(), substring(), charAt(), replace(), toUpperCase(), split()
-- Extra practice problems:
-[https://www.codewars.com/kata/tricky-doubles](https://www.codewars.com/kata/tricky-doubles)
+- [Extra practice problems](https://www.codewars.com/kata/tricky-doubles) :
 - Watch “The poetry of programming” talk by Linda Liukas: [https://www.youtube.com/watch?v=-jRREn6ifEQ](https://www.youtube.com/watch?v=-jRREn6ifEQ)
 
 ## Thoughts to share:
-- Regarding coding...consistency is the key.  Never surrender! (This is a theme of all veterans of Learn Teach Code!)
+- Regarding coding...consistency is the key.  Never surrender! (This is a theme of season veterans of Learn Teach Code - shout out to Allen and Vincent for this one)
 - Coding projects require planning, collaboration and ownership of deliverables - The approach of our coding group!  Learn Teach Code...
