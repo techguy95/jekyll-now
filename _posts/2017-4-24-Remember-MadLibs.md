@@ -83,9 +83,9 @@ document.getElementById("object/variable").textContent;
 
 ## Useful links to save for later:
 
-[https://medium.freecodecamp.com/stanford-just-abandoned-java-in-favor-of-javascript-for-its-intro-cs-course-fe40543e81d8](https://medium.freecodecamp.com/stanford-just-abandoned-java-in-favor-of-javascript-for-its-intro-cs-course-fe40543e81d8)
-[https://code.tutsplus.com/tutorials/event-based-programming-what-async-has-over-sync--net-30027](https://code.tutsplus.com/tutorials/event-based-programming-what-async-has-over-sync--net-30027)
-[https://medium.freecodecamp.com/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a](https://medium.freecodecamp.com/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a)
+-[https://medium.freecodecamp.com/stanford-just-abandoned-java-in-favor-of-javascript-for-its-intro-cs-course-fe40543e81d8](https://medium.freecodecamp.com/stanford-just-abandoned-java-in-favor-of-javascript-for-its-intro-cs-course-fe40543e81d8)
+-[https://code.tutsplus.com/tutorials/event-based-programming-what-async-has-over-sync--net-30027](https://code.tutsplus.com/tutorials/event-based-programming-what-async-has-over-sync--net-30027)
+-[https://medium.freecodecamp.com/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a](https://medium.freecodecamp.com/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a)
 
 ## My next goals:
 
