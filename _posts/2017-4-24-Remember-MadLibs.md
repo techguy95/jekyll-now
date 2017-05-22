@@ -101,7 +101,7 @@ document.getElementById("object/variable").textContent;
 - (Bonus: format your code examples with syntax highlighting, following [GitHub’s Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
 - Built-in JavaScript string functions to choose from (just choose ONE of these): indexOf(), slice(), substring(), charAt(), replace(), toUpperCase(), split()
 - [Extra practice problems](https://www.codewars.com/kata/tricky-doubles) :
-- Watch “The poetry of programming” talk by Linda Liukas: [https://www.youtube.com/watch?v=-jRREn6ifEQ](https://www.youtube.com/watch?v=-jRREn6ifEQ)
+- Watch [“The poetry of programming”](https://www.youtube.com/watch?v=-jRREn6ifEQ) talk by Linda Liukas
 
 ## Thoughts to share:
 - Regarding coding...consistency is the key.  Never surrender! (This is a theme of season veterans of Learn Teach Code - shout out to Allen and Vincent for this one)
