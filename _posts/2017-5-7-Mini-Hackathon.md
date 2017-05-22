@@ -22,6 +22,7 @@ Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBoot
 
 - The GitHub project I cloned earlier did not compile correctly because of an antiquated library dependency from an ancient UNIX/VAX C code base
 - I discovered that the C program used an sqlite package to store user sessions for their equipment, stats, inventory, experience/level, player description and more
+- This means I'll definitely need to learn some database, SQL and json for my text based dungeon crawler pet project
 
 
 ## Useful links to save for later:
