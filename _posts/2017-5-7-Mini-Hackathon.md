@@ -4,12 +4,14 @@ title: Forging the code!
 ---
 
 On a cold, dark and misty morning I joined the UnBootcamp crew for our mini-Hackathon.  We decided to collaborate and create the start of a "Choose your own Adventure" game!
-Updates on the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
+Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
 - How to quickly scrum and brainstorm in a collaborative manner to forge a project through "Mob Coding"
 - How to wireframe a project by sketching out on paper
+- We made the first room of our dungeon and uploaded the project to GitHub here: [https://github.com/r7uaz0n/the-great-escape](https://github.com/r7uaz0n/the-great-escape)
+- If you would like to play the game, [click here.]
 
 ## Questions:
 
