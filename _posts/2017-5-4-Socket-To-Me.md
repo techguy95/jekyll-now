@@ -5,7 +5,7 @@ title: May the Force be with you!
 
 The Force works in mysterious ways...and so does JavaScript!
 Let's take a look at how we setup a realtime chatroom webapp
-using Express, Node.js, WebSocket and Socket.io! [https://chat-learn-teach-code.herokuapp.com/](https://chat-learn-teach-code.herokuapp.com/)
+using Express, Node.js, WebSocket and Socket.io! [https://chat-learn-teach-code.herokuapp.com/](https://chat-learn-teach-code.herokuapp.com/).
 Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
