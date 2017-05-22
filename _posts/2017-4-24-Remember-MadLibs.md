@@ -11,12 +11,12 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 
 - Whaaaaaat I was excited to deploy the MadLibs website using a little php/json hack found here: [Deploy a static website to Heroku](https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489)
 - Also don't forget to use the Heroku CLI to create the PHP buildpack with this command:
-{% highlight bash linenos %}
+{% highlight javascript linenos %}
 heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 {% endhighlight %}
 - How to call javascript files and libraries in the HTML document - in our MadLibs site, it was index.html
 - Point to an external javascript file (just insert script includes at the bottom of the DOM examples below - https://www.w3schools.com/js/js_htmldom.asp):
-{% highlight javascript %}
+{% highlight javascript linenos %}
 <!-- bring in local javascript file below -->
 <script src="madlibs.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
@@ -31,7 +31,7 @@ heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
 - You can kick off scripts through interactive user input(s) - also thinking of possibilities of other libraries
 - OK! Let's take a look at our javascript running an event-based MadLibs program!
-{% highlight javascript %}
+{% highlight javascript linenos %}
 function showMadLib()
   {
       // Get the values of HTML input boxes
@@ -93,12 +93,12 @@ document.getElementById("object/variable").textContent;
 - Finish the Codecademy tutorial
 - Tactfully manage distraction barriers
 - Take advantage of opportunities for networking, meditation and brainstorming
-- Start reading the free book Eloquent JavaScript.
-- [Chapter 1](http://eloquentjavascript.net/01_values.html](http://eloquentjavascript.net/01_values.html): and if you like it, go on to
+- Start reading the free book [Eloquent JavaScript](http://eloquentjavascript.net/).
+- [Chapter 1](http://eloquentjavascript.net/01_values.html): and if you like it, go on to
 - [Chapter 2](http://eloquentjavascript.net/02_program_structure.html): and do the practice problems at the end of that chapter!
 - Pick ONE of the following built-in JavaScript string functions look it up online and read about it, and then write one of your blog posts explaining what it does and why it’s useful.
 - Write at least 3 short code examples of your own that show how to use it, and include the same code on your blog.
-- (Bonus: format your code examples with syntax highligting, following [GitHub’s Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
+- (Bonus: format your code examples with syntax highlighting, following [GitHub’s Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
 - Built-in JavaScript string functions to choose from (just choose ONE of these): indexOf(), slice(), substring(), charAt(), replace(), toUpperCase(), split()
 - [Extra practice problems](https://www.codewars.com/kata/tricky-doubles) :
 - Watch “The poetry of programming” talk by Linda Liukas: [https://www.youtube.com/watch?v=-jRREn6ifEQ](https://www.youtube.com/watch?v=-jRREn6ifEQ)
