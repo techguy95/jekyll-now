@@ -3,35 +3,34 @@ layout: post
 title: Fleshing out a Dungeon Crawler!
 ---
 
-After figuring out how to get an old school dikuMUD up and running on a Google Cloud Ubuntu 17.04 (Zesty Z)
-Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
+After figuring out how to get an old school dikuMUD up and running on a Google Cloud Ubuntu 17.04 (Zesty Z), I celebrated with a handle of Dewar's dreaming of a warm fuzzy buzz -
+but instead I over-indulged and ironically became Mr. Hyde while writing a Jekyll post!
+The Last Chapter of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
 
-- How to quickly scrum and brainstorm in a collaborative manner to forge a project through "Mob Coding"
-- How to wireframe a project by sketching out on paper
-- We made the first room of our dungeon and uploaded the project to GitHub here: [https://github.com/r7uaz0n/the-great-escape](https://github.com/r7uaz0n/the-great-escape)
-- If you would like to play the game, click [The Great Escape!](https://dungeon-learn-teach-code.herokuapp.com/)
-- Feel free to fork this project and make it more interesting!
+- I need to limit my elixir consumption from unlimited to 2-4 vials per day
+- Disconnect from the internet when drinking more than 6 vials of elixir
 
 ## Questions:
 
--
--
+- How do I move on from this catastrophe?
+- Should I stick with the online tutorials and the Eloquent Javascript book?
+- How can I vanquish my desire to be utterly hammered?
 
 ## Bugs discovered / what I got stuck on:
 
-- The GitHub project I cloned earlier did not compile correctly because of an antiquated library dependency from an ancient UNIX/VAX C code base
-- I discovered that the C program used an sqlite package to store user sessions for their equipment, stats, inventory, experience/level, player description and more
-- This means I'll definitely need to learn some database, SQL and json for my text based dungeon crawler pet project
+- I discovered a bug in my own self - stemming from the stark reality of the duality of man
+- Man has a good and bad side to his personality, I wanted to indulge fully in the bad side after many shots of elixir and realize all my hidden desires.
+- Playin with fire, or in this case a handle of Dewar's - you're gonna get burnt, black-out and have a rude awakening.
 
 
 ## Useful links to save for later:
 
--
+- [Dr. Jekyll & Mr. Hyde](http://www.gradesaver.com/dr-jekyll-and-mr-hyde/q-and-a/why-does-hyde-offer-to-drink-the-potion-in-front-of-dr-lanyon-what-does-this-suggest-about-his-character-50063)
 
 
 ## My next goals:
 
-- Find a modern linux distro version of dikuMUD code that will compile on a Google cloud Ubuntu 17.04 (Zesty Zapus) instance.
-- Once the code runs, examine the structure and guts of the code to help me envision, architect and code a new version of a this dungeon crawler in node.js
+- Try to figure out what to do regarding continuing to learn JavaScript
+- Apologize to everyone in the UnBootcamp crew and Learn Teach Code slack chatroom for my behavior
