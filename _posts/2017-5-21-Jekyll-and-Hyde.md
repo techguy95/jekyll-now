@@ -3,8 +3,8 @@ layout: post
 title: Fleshing out a Dungeon Crawler!
 ---
 
-After figuring out how to get an old school dikuMUD up and running on a Google Cloud Ubuntu 17.04 (Zesty Z), I celebrated with a handle of Dewar's dreaming of a warm fuzzy buzz -
-but instead I over-indulged and ironically became Mr. Hyde while writing a Jekyll post!
+After figuring out how to get an old school [dikuMUD](https://github.com/techguy95/CrimsonSkies) up and running on a Google Cloud Ubuntu 17.04 (Zesty Z), I celebrated with a handle of Dewar's dreaming of a warm fuzzy buzz -
+but instead I overindulged and ironically became Mr. Hyde while writing a Jekyll blog post!
 The Last Chapter of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
@@ -33,4 +33,5 @@ The Last Chapter of the [Learn Teach Code](http://learnteachcode.org/) UnBootcam
 ## My next goals:
 
 - Try to figure out what to do regarding continuing to learn JavaScript
-- Apologize to everyone in the UnBootcamp crew and Learn Teach Code slack chatroom for my behavior
+- Apologize to everyone in the UnBootcamp crew and Learn Teach Code slack chatroom
+- Start a martial arts program ASAP
