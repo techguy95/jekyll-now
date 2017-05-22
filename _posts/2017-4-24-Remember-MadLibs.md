@@ -26,7 +26,7 @@ heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 {% endhighlight %}
 
 - I uploaded this MadLibs website to my GitHub account here: [https://techguy95.github.io/madlibs](https://techguy95.github.io/madlibs)
-- The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide
+- The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide:
 [Creating a Repository on GitHub](https://help.github.com/articles/create-a-repo/)
 - Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide:
 [Cloning a Repository on GitHub](https://help.github.com/articles/cloning-a-repository/)
