@@ -75,7 +75,7 @@ document.getElementById("object/variable").textContent;
 ## Questions:
 
 - How can I permanently store user or session data from a signup form on a website using javascript (node.js? hmm)?
-- Curious about FireBase...  I keep hearing about FireBase and i'm fired up!  Let me read up more about it here [https://firebase.google.com] (https://firebase.google.com)
+- Curious about FireBase...  I keep hearing about FireBase and i'm fired up!  Let me read up more about it here [https://firebase.google.com](https://firebase.google.com)
 - need to hyperlink stuff in Jekyll
 
 ## Bugs discovered / what I got stuck on:
