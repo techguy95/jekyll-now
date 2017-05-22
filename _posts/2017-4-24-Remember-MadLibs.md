@@ -26,8 +26,10 @@ heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 {% endhighlight %}
 
 - I uploaded this MadLibs website to my GitHub account here: [https://techguy95.github.io/madlibs](https://techguy95.github.io/madlibs)
-- The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide [Creating a Repository on GitHub](https://help.github.com/articles/create-a-repo/)
-- Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide: [Cloning a Repository on GitHub](https://help.github.com/articles/cloning-a-repository/)
+- The code we mob programmed in class was on my laptop so I made a new GitHub repo for this lesson using this guide
+[Creating a Repository on GitHub](https://help.github.com/articles/create-a-repo/)
+- Later when I started working on the desktop "rig" at the crib I pulled down the code that I uploaded to the GitHub repo from my laptop using this guide:
+[Cloning a Repository on GitHub](https://help.github.com/articles/cloning-a-repository/)
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
 - You can kick off scripts through interactive user input(s) - also thinking of possibilities of other libraries
 - OK! Let's take a look at our javascript running an event-based MadLibs program!
@@ -100,8 +102,8 @@ document.getElementById("object/variable").textContent;
 - Write at least 3 short code examples of your own that show how to use it, and include the same code on your blog.
 - (Bonus: format your code examples with syntax highlighting, following [GitHub’s Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
 - Built-in JavaScript string functions to choose from (just choose ONE of these): indexOf(), slice(), substring(), charAt(), replace(), toUpperCase(), split()
-- [Extra practice problems](https://www.codewars.com/kata/tricky-doubles) :
-- Watch [“The poetry of programming”](https://www.youtube.com/watch?v=-jRREn6ifEQ) talk by Linda Liukas
+- [Extra practice problems - Codewars Kata Tricky Doubles!](https://www.codewars.com/kata/tricky-doubles)
+- Watch [“The Poetry of Programming”](https://www.youtube.com/watch?v=-jRREn6ifEQ) talk by Linda Liukas
 
 ## Thoughts to share:
 - Regarding coding...consistency is the key.  Never surrender! (This is a theme of season veterans of Learn Teach Code - shout out to Allen and Vincent for this one)
