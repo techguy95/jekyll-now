@@ -3,7 +3,7 @@ layout: post
 title: Fleshing out a Dungeon Crawler!
 ---
 
-After figuring out how to get an old school [dikuMUD](https://github.com/techguy95/CrimsonSkies) up and running, I celebrated with a handle of freezer chilled Dewar's dreaming of a warm fuzzy buzz for my efforts.  Instead, I overindulged and... ironically, became a nasty Balrog named Mr. Hyde while writing a Jekyll blog post!
+After figuring out how to get an old school [dikuMUD](https://github.com/techguy95/CrimsonSkies) up and running on Ubuntu, I celebrated with a handle of freezer chilled Dewar's dreaming of a warm fuzzy buzz for my efforts.  Instead, I overindulged and... ironically, became a nasty Balrog named Mr. Hyde while writing a Jekyll blog post!
 The Last Chapter of the [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
 
 ## Today I learned (#TIL):
