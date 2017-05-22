@@ -11,12 +11,12 @@ Another exciting chapter in the blogosphere of the [Learn Teach Code](http://lea
 
 - Whaaaaaat I was excited to deploy the MadLibs website using a little php/json hack found here: [Deploy a static website to Heroku](https://gist.github.com/wh1tney/2ad13aa5fbdd83f6a489)
 - Also don't forget to use the Heroku CLI to create the PHP buildpack with this command:
-{% highlight javascript linenos %}
+{% highlight javascript %}
 heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 {% endhighlight %}
 - How to call javascript files and libraries in the HTML document - in our MadLibs site, it was index.html
 - Point to an external javascript file (just insert script includes at the bottom of the DOM examples below - https://www.w3schools.com/js/js_htmldom.asp):
-{% highlight javascript linenos %}
+{% highlight javascript %}
 <!-- bring in local javascript file below -->
 <script src="madlibs.js"></script>
 <!-- bring in the socket.io library in the next line //think about bootstrap/angular/react/{next.agile.library} -->
@@ -31,7 +31,7 @@ heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
 - I almost forgot to mention something wonderful I learned in the class was about event based programming, aka "THE event loop".
 - You can kick off scripts through interactive user input(s) - also thinking of possibilities of other libraries
 - OK! Let's take a look at our javascript running an event-based MadLibs program!
-{% highlight javascript linenos %}
+{% highlight javascript %}
 function showMadLib()
   {
       // Get the values of HTML input boxes
