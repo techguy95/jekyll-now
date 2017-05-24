@@ -34,4 +34,4 @@ Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBoot
 ## My next goals:
 
 - Find a modern linux distro version of dikuMUD code that will compile on a Google cloud Ubuntu 17.04 (Zesty Zapus) instance.
-- Once the code runs, examine the structure and guts of the code to help me envision, architect and code a new version of a this dungeon crawler in node.js
+- Once the code runs, examine the structure and guts of the code to help me envision, architect and code a new version of a dungeon crawler in node.js
