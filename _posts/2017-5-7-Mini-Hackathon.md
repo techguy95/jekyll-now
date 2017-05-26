@@ -9,7 +9,7 @@ Continuing the saga of the [Learn Teach Code](http://learnteachcode.org/) UnBoot
 ## Today I learned (#TIL):
 
 - How to quickly scrum and brainstorm in a collaborative manner to forge a project through "Mob Coding"
-- How to wireframe a project by sketching out on paper
+- How to wireframe a project by sketching it out on paper
 - We made the first room of our dungeon and uploaded the project to GitHub here: [https://github.com/r7uaz0n/the-great-escape](https://github.com/r7uaz0n/the-great-escape)
 - If you would like to play the game, click [The Great Escape!](https://dungeon-learn-teach-code.herokuapp.com/)
 - Feel free to fork this project and make it more interesting!
